@@ -1,3 +1,0 @@
-name = "nuxt-supa-test"
-pages_build_output_dir = "./dist"
-node_compat = true
